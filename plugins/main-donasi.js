@@ -28,14 +28,14 @@ wa.me/${numberowner} (Owner)
            hydratedButtons: [{
              urlButton: {
                displayText: 'GroupBot',
-               url: 'https://chat.whatsapp.com/BelumBuatGroupBot'
+               url: 'https://chat.whatsapp.com/J7VtphVsCUXCMTnbLsRurn'
              }
 
            },
                 {
                urlButton: {
-               displayText: 'Myweb',
-               url: 'https://istagram.com/kokopangeran_'
+               displayText: 'instagram',
+               url: 'https://istagram.com/yxbxrock'
              }
 
            },
